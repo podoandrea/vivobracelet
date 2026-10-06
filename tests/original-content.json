@@ -1,0 +1,578 @@
+[
+  {
+    "key": "heroT",
+    "text": "Il braccialetto che chiede aiuto quando un tuo caro non può"
+  },
+  {
+    "key": "heroP",
+    "text": "Riconosce da solo le cadute degli anziani e avvisa subito la famiglia, sul telefono."
+  },
+  {
+    "key": "pEy",
+    "text": "Il problema"
+  },
+  {
+    "key": "pT",
+    "text": "Cadere, per un anziano, è un'emergenza quotidiana"
+  },
+  {
+    "key": "s1n",
+    "text": "1 su 3"
+  },
+  {
+    "key": "s1",
+    "text": "delle persone oltre i 65 anni cade almeno una volta all'anno"
+  },
+  {
+    "key": "s1f",
+    "text": "Fonte: OMS"
+  },
+  {
+    "key": "s2n",
+    "text": "684.000"
+  },
+  {
+    "key": "s2",
+    "text": "morti ogni anno nel mondo per una caduta: la seconda causa di morte per incidente"
+  },
+  {
+    "key": "s2f",
+    "text": "Fonte: OMS, 2021"
+  },
+  {
+    "key": "s3n",
+    "text": "1 su 4"
+  },
+  {
+    "key": "s3",
+    "text": "degli italiani ha più di 65 anni, e la quota cresce ogni anno"
+  },
+  {
+    "key": "s3f",
+    "text": "Fonte: ISTAT"
+  },
+  {
+    "key": "pNote",
+    "text": "Il pericolo più grande non è la caduta: è restare a terra per ore, senza che nessuno lo sappia."
+  },
+  {
+    "key": "oEy",
+    "text": "Le soluzioni di oggi"
+  },
+  {
+    "key": "oT",
+    "text": "Perché quello che esiste non basta"
+  },
+  {
+    "key": "o1t",
+    "text": "Il pulsante va premuto"
+  },
+  {
+    "key": "o1",
+    "text": "Il classico ciondolo d'allarme funziona solo se la persona è cosciente e riesce a usarlo."
+  },
+  {
+    "key": "o2t",
+    "text": "Canoni e centrali operative"
+  },
+  {
+    "key": "o2",
+    "text": "Il telesoccorso tradizionale spesso richiede un abbonamento mensile e un'installazione in casa."
+  },
+  {
+    "key": "o3t",
+    "text": "Smartwatch troppo complicati"
+  },
+  {
+    "key": "o3",
+    "text": "Pensati per sportivi e appassionati di tecnologia, non per chi ha 85 anni."
+  },
+  {
+    "key": "oNote",
+    "text": "Serve qualcosa che chieda aiuto anche quando la persona non può farlo."
+  },
+  {
+    "key": "oNote2",
+    "text": "Senza pulsanti da ricordare, senza abbonamenti, senza app complicate."
+  },
+  {
+    "key": "solEy",
+    "text": "La soluzione"
+  },
+  {
+    "key": "solT",
+    "text": "VIVO Bracelet: si indossa e ci pensa lui"
+  },
+  {
+    "key": "f1t",
+    "text": "Riconosce le cadute da solo"
+  },
+  {
+    "key": "f1",
+    "text": "Accelerometro e giroscopio analizzano il movimento 100 volte al secondo."
+  },
+  {
+    "key": "f2t",
+    "text": "Tasto SOS"
+  },
+  {
+    "key": "f2",
+    "text": "Un solo tasto per chiedere aiuto quando serve, senza menu né codici."
+  },
+  {
+    "key": "f3t",
+    "text": "Controlla il battito"
+  },
+  {
+    "key": "f3",
+    "text": "Il sensore al polso misura la frequenza e la invia insieme a ogni allarme."
+  },
+  {
+    "key": "f4t",
+    "text": "Avvisa la famiglia"
+  },
+  {
+    "key": "f4",
+    "text": "Notifica sul telefono, anche bloccato, più un'email di riserva."
+  },
+  {
+    "key": "aEy",
+    "text": "Dentro il braccialetto"
+  },
+  {
+    "key": "aT",
+    "text": "Piccolo fuori, completo dentro"
+  },
+  {
+    "key": "a1",
+    "text": "Vetro protettivo"
+  },
+  {
+    "key": "a1d",
+    "text": "resistente agli urti"
+  },
+  {
+    "key": "a2",
+    "text": "Display LCD circolare"
+  },
+  {
+    "key": "a2d",
+    "text": "ora, battito, SOS"
+  },
+  {
+    "key": "a3d",
+    "text": "due core, Wi-Fi"
+  },
+  {
+    "key": "a4",
+    "text": "Batteria Li-Po 3.7V"
+  },
+  {
+    "key": "a4d",
+    "text": "ricaricabile"
+  },
+  {
+    "key": "a5",
+    "text": "Sensori ottico e di prossimità"
+  },
+  {
+    "key": "a5d",
+    "text": "battito al polso"
+  },
+  {
+    "key": "a6",
+    "text": "Ricarica wireless"
+  },
+  {
+    "key": "a6d",
+    "text": "modulo e bobina"
+  },
+  {
+    "key": "cEy",
+    "text": "Come funziona"
+  },
+  {
+    "key": "cT",
+    "text": "Dalla caduta al telefono del familiare"
+  },
+  {
+    "key": "c1t",
+    "text": "Caduta"
+  },
+  {
+    "key": "c1",
+    "text": "Il braccialetto riconosce impatto e immobilità"
+  },
+  {
+    "key": "c2t",
+    "text": "10 secondi"
+  },
+  {
+    "key": "c2",
+    "text": "Conto alla rovescia sullo schermo: se è un falso allarme, si annulla"
+  },
+  {
+    "key": "c3t",
+    "text": "Invio via Wi-Fi"
+  },
+  {
+    "key": "c3",
+    "text": "L'allarme parte con battito, batteria e forza dell'impatto"
+  },
+  {
+    "key": "c4",
+    "text": "Registra l'evento e trova i familiari di quel braccialetto"
+  },
+  {
+    "key": "c5t",
+    "text": "Famiglia avvisata"
+  },
+  {
+    "key": "c5",
+    "text": "Notifica push sul telefono, anche bloccato, ed email"
+  },
+  {
+    "key": "cNote",
+    "text": "Poco più di 10 secondi dalla caduta alla notifica. Con il tasto SOS il conto alla rovescia è di soli 5 secondi."
+  },
+  {
+    "key": "gEy",
+    "text": "L'algoritmo"
+  },
+  {
+    "key": "gT",
+    "text": "Come distingue una caduta da un gesto normale"
+  },
+  {
+    "key": "g1t",
+    "text": "Caduta libera"
+  },
+  {
+    "key": "g1",
+    "text": "Per almeno 60 ms il polso \"perde peso\": sotto 0,6 g."
+  },
+  {
+    "key": "g2t",
+    "text": "Impatto"
+  },
+  {
+    "key": "g2",
+    "text": "Subito dopo, un picco sopra 2,6 g. Sopra 3,4 g basta anche da solo."
+  },
+  {
+    "key": "g3t",
+    "text": "Immobilità"
+  },
+  {
+    "key": "g3",
+    "text": "Per 1,8 s quasi nessun movimento: la persona non si è rialzata."
+  },
+  {
+    "key": "chY",
+    "text": "Accelerazione (g)"
+  },
+  {
+    "key": "chEx",
+    "text": "Esempio illustrativo"
+  },
+  {
+    "key": "ch1",
+    "text": "3,4 g"
+  },
+  {
+    "key": "ch2",
+    "text": "0,6 g"
+  },
+  {
+    "key": "chA",
+    "text": "caduta libera"
+  },
+  {
+    "key": "chB",
+    "text": "impatto"
+  },
+  {
+    "key": "chC",
+    "text": "immobilità"
+  },
+  {
+    "key": "gNote",
+    "text": "Se la persona si muove, niente allarme. E ha sempre 10 secondi per annullarlo."
+  },
+  {
+    "key": "dEy",
+    "text": "L'app della famiglia"
+  },
+  {
+    "key": "dT",
+    "text": "Tutto quello che serve, a colpo d'occhio"
+  },
+  {
+    "key": "dP",
+    "text": "Una web app che si installa sul telefono come un'app vera. Mostra lo stato del braccialetto, il battito e lo storico degli eventi. Prova i vari stati qui sotto."
+  },
+  {
+    "key": "t1",
+    "text": "Tutto bene"
+  },
+  {
+    "key": "t1d",
+    "text": "Il braccialetto è attivo e si fa vivo regolarmente"
+  },
+  {
+    "key": "t2",
+    "text": "Caduta rilevata"
+  },
+  {
+    "key": "t2d",
+    "text": "Notifica push immediata con impatto e battito"
+  },
+  {
+    "key": "t3",
+    "text": "Battito anomalo"
+  },
+  {
+    "key": "t3d",
+    "text": "Frequenza fuori dalla norma"
+  },
+  {
+    "key": "t4",
+    "text": "Non raggiungibile"
+  },
+  {
+    "key": "t4d",
+    "text": "Nessun segnale di vita da troppo tempo"
+  },
+  {
+    "key": "sim",
+    "text": "Simula una caduta"
+  },
+  {
+    "key": "push",
+    "text": "CADUTA RILEVATA · VIVOMaria Rossi: caduta con impatto di 3,9 g · 97 bpm · batteria 84%"
+  },
+  {
+    "key": "cnt1",
+    "text": "Sul braccialetto"
+  },
+  {
+    "key": "cnt2",
+    "text": "Caduta rilevata.Invio dell'allarme tra poco…"
+  },
+  {
+    "key": "cnt3",
+    "text": "Annulla, sto bene"
+  },
+  {
+    "key": "rEy",
+    "text": "Affidabilità"
+  },
+  {
+    "key": "rT",
+    "text": "Quando conta, deve funzionare"
+  },
+  {
+    "key": "r1t",
+    "text": "Nessun allarme perso"
+  },
+  {
+    "key": "r1",
+    "text": "Se la rete manca, l'allarme resta in memoria e il braccialetto riprova ogni 30 secondi finché non arriva."
+  },
+  {
+    "key": "r2t",
+    "text": "Segnale di vita ogni 5 minuti"
+  },
+  {
+    "key": "r2",
+    "text": "Se il braccialetto si spegne o esce dalla copertura, la famiglia lo vede subito sul sito."
+  },
+  {
+    "key": "r3t",
+    "text": "Due reti Wi-Fi"
+  },
+  {
+    "key": "r3",
+    "text": "Casa e hotspot del telefono: se una non risponde, passa da sola all'altra."
+  },
+  {
+    "key": "r4t",
+    "text": "Due cervelli separati"
+  },
+  {
+    "key": "r4",
+    "text": "Un core del processore pensa solo alla rete, l'altro solo alle cadute: nessuno blocca l'altro."
+  },
+  {
+    "key": "xEy",
+    "text": "Sicurezza e privacy"
+  },
+  {
+    "key": "xT",
+    "text": "Dati sanitari trattati come tali"
+  },
+  {
+    "key": "x1t",
+    "text": "Connessione cifrata HTTPS"
+  },
+  {
+    "key": "x1",
+    "text": "tra braccialetto, server e telefoni"
+  },
+  {
+    "key": "x2t",
+    "text": "Braccialetto autenticato"
+  },
+  {
+    "key": "x2",
+    "text": "con un codice segreto: nessuno può fingersi lui"
+  },
+  {
+    "key": "x3t",
+    "text": "Password mai salvate in chiaro"
+  },
+  {
+    "key": "x3",
+    "text": "solo un'impronta cifrata (bcrypt)"
+  },
+  {
+    "key": "x4t",
+    "text": "Blocco dopo 5 tentativi"
+  },
+  {
+    "key": "x4",
+    "text": "contro chi prova a indovinare le password"
+  },
+  {
+    "key": "x5t",
+    "text": "Ogni famiglia vede solo i suoi dati"
+  },
+  {
+    "key": "x5",
+    "text": "isolati per numero di serie"
+  },
+  {
+    "key": "x6t",
+    "text": "Protezioni del browser attive"
+  },
+  {
+    "key": "x6",
+    "text": "contro furto di sessione e siti falsi"
+  },
+  {
+    "key": "xBig",
+    "text": "controlli di sicurezza superati nei nostri test automatici"
+  },
+  {
+    "key": "xBig2",
+    "text": "accessi, blocco dei tentativi, sessioni, notifiche e comunicazione col braccialetto"
+  },
+  {
+    "key": "kEy",
+    "text": "Tecnologie"
+  },
+  {
+    "key": "kT",
+    "text": "Tre pezzi che parlano tra loro"
+  },
+  {
+    "key": "k1t",
+    "text": "Braccialetto"
+  },
+  {
+    "key": "k1c",
+    "text": "C++ su Arduino e FreeRTOS"
+  },
+  {
+    "key": "k1",
+    "text": "Rilevamento cadute e battito. Coda allarmi e segnale di vita."
+  },
+  {
+    "key": "k2c",
+    "text": "PHP e MySQL"
+  },
+  {
+    "key": "k2",
+    "text": "Su un normale hosting web. Account, storico, invio notifiche."
+  },
+  {
+    "key": "k3t",
+    "text": "App della famiglia"
+  },
+  {
+    "key": "k3c",
+    "text": "Web app installabile (PWA)"
+  },
+  {
+    "key": "k3",
+    "text": "Notifiche Web Push standard. Italiano e inglese, tema chiaro e scuro."
+  },
+  {
+    "key": "kNote",
+    "text": "Nessun servizio esterno a pagamento: le notifiche partono direttamente dal nostro server."
+  },
+  {
+    "key": "gal1",
+    "text": "Il prototipo: elettronica e bobina di ricarica wireless"
+  },
+  {
+    "key": "gal2",
+    "text": "Al polso, con l'app collegata in tempo reale"
+  },
+  {
+    "key": "nEy",
+    "text": "Prossimi passi"
+  },
+  {
+    "key": "nT",
+    "text": "Dove vogliamo portarlo"
+  },
+  {
+    "key": "n1",
+    "text": "Funziona anche fuori casa, senza Wi-Fi."
+  },
+  {
+    "key": "n2",
+    "text": "La posizione arriva insieme all'allarme."
+  },
+  {
+    "key": "n3t",
+    "text": "Intelligenza artificiale"
+  },
+  {
+    "key": "n3",
+    "text": "Meno falsi allarmi, imparando dai movimenti."
+  },
+  {
+    "key": "n4t",
+    "text": "Cassa impermeabile"
+  },
+  {
+    "key": "n4",
+    "text": "Da tenere anche sotto la doccia, dove si cade di più."
+  },
+  {
+    "key": "n5t",
+    "text": "Test sul campo"
+  },
+  {
+    "key": "n5",
+    "text": "Con anziani, famiglie e RSA."
+  },
+  {
+    "key": "nNote",
+    "text": "Il prototipo funziona già: braccialetto, server e app sono online e collegati tra loro."
+  },
+  {
+    "key": "ftT",
+    "text": "Perché nessuno resti a terra da solo."
+  },
+  {
+    "key": "ftP",
+    "text": "VIVO Bracelet è un progetto presentato a HackerSGen 2026."
+  },
+  {
+    "key": "ftB",
+    "text": "Torna su"
+  }
+]
